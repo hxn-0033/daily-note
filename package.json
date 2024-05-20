@@ -1,0 +1,21 @@
+{
+    "name": "documents",
+    "version": "1.0.0",
+    "description": "dontkai's documents",
+    "license": "ISC",
+    "type": "module",
+    "scripts": {
+        "dev": "vitepress dev docs",
+        "docs:build": "vitepress build docs",
+        "docs:preview": "vitepress preview docs",
+        "docs:deploy": "sh deploy.sh"
+    },
+    "devDependencies": {
+        "less": "^4.2.0",
+        "vitepress": "^1.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DontKai/dontkai-notes.git"
+    }
+}

@@ -1,0 +1,42 @@
+/* Color Base */
+:root {
+    --vp-c-purple: #b185db;
+    --vp-c-purple-light: #c19ee0;
+    --vp-c-purple-lighter: #d2b7e5;
+    --vp-c-purple-dark: #a06cd5;
+    --vp-c-purple-darker: #9163cb;
+
+    /* 设置字体颜色 */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+
+    /* 设置右图像渐变 */
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #8e99ee 50%, #ffffff 50%);
+    --vp-home-hero-image-filter: blur(150px);
+}
+
+/* Color Theme */
+:root {
+    --vp-c-brand: var(--vp-c-purple);
+    --vp-c-brand-3: var(--vp-c-purple);
+    --vp-c-brand-light: var(--vp-c-purple-light);
+    --vp-c-brand-lighter: var(--vp-c-purple-lighter);
+    --vp-c-brand-dark: var(--vp-c-purple-dark);
+    --vp-c-brand-darker: var(--vp-c-purple-darker);
+
+    --vp-layout-max-width: 1540px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(177, 133, 219, 0.5);
+}
+
+.VPDoc.has-aside .content-container {
+    max-width: 876px !important;
+}
