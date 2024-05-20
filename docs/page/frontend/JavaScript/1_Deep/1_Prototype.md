@@ -9,8 +9,8 @@ const person = new Person() // new出来的实体对象
 
 // 2-prototype：每个函数都有 prototype 属性，这个属性是一个指针，指向一个对象.
 // 这个对象的用途是包含可以由特定类型的所有实例共享的属性和方法。
-Person.prototype.name = 'DontKai'
-console.log(person.name) // DontKai
+Person.prototype.name = 'HXN'
+console.log(person.name) // HXN
 
 // 3-__proto__：每个对象(除了 null )都具有属性__proto__，指向该对象的原型。
 console.log(person.__proto__ === Person.prototype) // true

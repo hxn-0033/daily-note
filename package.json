@@ -1,7 +1,7 @@
 {
-    "name": "documents",
+    "name": "note",
     "version": "1.0.0",
-    "description": "dontkai's documents",
+    "description": "daily note",
     "license": "ISC",
     "type": "module",
     "scripts": {
@@ -16,6 +16,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DontKai/dontkai-notes.git"
+        "url": "git+https://github.com/hxn-0033/daily-note.git"
     }
 }

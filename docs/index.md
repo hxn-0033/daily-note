@@ -1,12 +1,12 @@
 ---
 layout: home
 hero:
-    name: Dontkai
-    text: 博客笔记
+    name: Daily-Note
+    text: 笔记
     tagline:
     image:
         src: /hero.png
-        alt: Dontkai
+        alt: Daily-Note
     actions:
         - theme: brand
           text: 开始阅读 →

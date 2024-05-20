@@ -56,12 +56,12 @@ $ yarn add -D vitepress
 ---
 layout: home
 hero:
-    name: Dontkai
+    name: HXN
     text: 由 Vite 和 Vue 驱动的静态站点生成器
     tagline: 将 Markdown 变成优雅的文档，只需几分钟
     image:
         src: /hero.png
-        alt: Dontkai
+        alt: HXN
     actions:
         - theme: brand
           text: 开始阅读 →

@@ -9,11 +9,6 @@ export default [
     },
     {
         text: '关于我',
-        items: [
-            { text: '掘金', link: 'https://juejin.cn/user/2916335264469944/posts' },
-            { text: 'CSDN', link: 'https://blog.csdn.net/DunKan?type=blog' },
-            { text: 'github', link: 'https://github.com/DontKai' },
-            { text: 'gitee', link: 'https://gitee.com/Dont-Kai' }
-        ]
+        items: [{ text: 'github', link: 'https://github.com/hxn-0033/daily-note.git' }]
     }
 ]

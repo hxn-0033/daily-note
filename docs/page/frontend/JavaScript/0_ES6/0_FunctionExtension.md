@@ -2,7 +2,7 @@
 
 ## 函数扩展
 
-从 ES5 开始，函数内部可以设定为严格模式。huang
+从 ES5 开始，函数内部可以设定为严格模式。
 
 ```javascript
 function doSomething(a, b) {
